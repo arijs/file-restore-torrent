@@ -1,4 +1,6 @@
-# File Restore Torrent
+# File Restore ~Torrent~*
+
+\* Torrent capabilities not yet ready
 
 I have a problem. I had files stored on optical media disks (dvds) which are over ten years old. When I copy the files to the hard disk on my computer and verify them using a torrent file, some pieces are broken. But I noticed that each time that I copied the file, it was a different amount of pieces inside that file that were broken. So I thought that some bytes were coming wrong during the copy, but not always the same bytes, it looks like each byte had a random chance of being copied with an error.
 
