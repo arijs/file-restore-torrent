@@ -14,7 +14,13 @@ Contributions welcome!
 
 ## How to run
 
+Download the code from github into a folder in your computer and run the commands below in your terminal:
+
 ```
+cd /path/where/you/downloaded
+
+npm install
+
 node ./index.mjs --base /my/path/for/files --files 'a1.txt' 'a2.txt' 'a3.txt' > average.txt
 ```
 
