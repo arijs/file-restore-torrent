@@ -1,0 +1,22 @@
+{
+  "name": "@arijs/file-restore-torrent",
+  "version": "0.0.0",
+  "description": "-",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arijs/file-restore-torrent.git"
+  },
+  "author": "Rafael Hengles <rhengles@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arijs/file-restore-torrent/issues"
+  },
+  "homepage": "https://github.com/arijs/file-restore-torrent#readme",
+  "dependencies": {
+    "parse-torrent": "^9.1.3"
+  }
+}
