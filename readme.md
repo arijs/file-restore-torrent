@@ -32,3 +32,7 @@ The script has other parameters but they are not yet configurable from the comma
 
 The averaged file will be output to `stdout`, and you can pipe it to a file path to save it.
 Also many log lines are printed to `stderr` so you can see what the script is doing.
+
+## License
+
+[MIT](LICENSE).
